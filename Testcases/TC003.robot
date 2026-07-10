@@ -3,7 +3,7 @@ Resource         ${CURDIR}/../resources/import.robot
 Suite Teardown    Browser.Close Browser
 
 *** Test Cases ***
-TC003 - ข้ามขั้นตอนอัพโหลดรูป และ subscribe
+TC003 - เปลี่นนภาษา
     [Documentation]    Author : Kornnisa
     common.Open website
 

@@ -3,7 +3,7 @@ Resource         ${CURDIR}/../resources/import.robot
 Suite Teardown    Browser.Close Browser
 
 *** Test Cases ***
-TC001 - ไม่รวม feature
+TC001 - ไม่มี feature
     [Documentation]    Author : Kornnisa
 
     common.Open website
